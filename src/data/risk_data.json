@@ -1,0 +1,2284 @@
+[
+    {
+      "patient_id": 101140,
+      "chdrisk": 2.68,
+      "diabetesrisk": null,
+      "hccrisk": "1.478",
+      "hypertensionrisk": 8.736
+    },
+    {
+      "patient_id": 103158,
+      "chdrisk": 6.188,
+      "diabetesrisk": null,
+      "hccrisk": "1.385",
+      "hypertensionrisk": 34.762
+    },
+    {
+      "patient_id": 103055,
+      "chdrisk": 7.261,
+      "diabetesrisk": null,
+      "hccrisk": "0.703",
+      "hypertensionrisk": 52.386
+    },
+    {
+      "patient_id": 100939,
+      "chdrisk": 7.488,
+      "diabetesrisk": 25.337,
+      "hccrisk": "1.634",
+      "hypertensionrisk": 38.983
+    },
+    {
+      "patient_id": 102667,
+      "chdrisk": 6.75,
+      "diabetesrisk": null,
+      "hccrisk": "1.389",
+      "hypertensionrisk": 77.843
+    },
+    {
+      "patient_id": 102838,
+      "chdrisk": 6.737,
+      "diabetesrisk": null,
+      "hccrisk": "1.284",
+      "hypertensionrisk": 49.94
+    },
+    {
+      "patient_id": 101738,
+      "chdrisk": 14.154,
+      "diabetesrisk": 20.673,
+      "hccrisk": "0.67",
+      "hypertensionrisk": 15.252
+    },
+    {
+      "patient_id": 101521,
+      "chdrisk": 10.533,
+      "diabetesrisk": null,
+      "hccrisk": "2.174",
+      "hypertensionrisk": 27.15
+    },
+    {
+      "patient_id": 101266,
+      "chdrisk": 5.83,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 27.305
+    },
+    {
+      "patient_id": 103004,
+      "chdrisk": 5.5,
+      "diabetesrisk": null,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 30.353
+    },
+    {
+      "patient_id": 101977,
+      "chdrisk": 12.214,
+      "diabetesrisk": null,
+      "hccrisk": "0.953142857",
+      "hypertensionrisk": 22.149
+    },
+    {
+      "patient_id": 102583,
+      "chdrisk": 8.692,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 11.391
+    },
+    {
+      "patient_id": 101771,
+      "chdrisk": 2.667,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 13.383
+    },
+    {
+      "patient_id": 101944,
+      "chdrisk": 8.289,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 23.938
+    },
+    {
+      "patient_id": 102910,
+      "chdrisk": 23.25,
+      "diabetesrisk": 27.244,
+      "hccrisk": "1.019",
+      "hypertensionrisk": 20.776
+    },
+    {
+      "patient_id": 102885,
+      "chdrisk": 6.65,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 46.759
+    },
+    {
+      "patient_id": 101505,
+      "chdrisk": 8.571,
+      "diabetesrisk": 21.059,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 41.013
+    },
+    {
+      "patient_id": 103213,
+      "chdrisk": 11.656,
+      "diabetesrisk": 31.171,
+      "hccrisk": "1.787",
+      "hypertensionrisk": 62.302
+    },
+    {
+      "patient_id": 102555,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "0.79",
+      "hypertensionrisk": 13.665
+    },
+    {
+      "patient_id": 101463,
+      "chdrisk": 11.076,
+      "diabetesrisk": null,
+      "hccrisk": "0.707",
+      "hypertensionrisk": 12.432
+    },
+    {
+      "patient_id": 102580,
+      "chdrisk": 18.453,
+      "diabetesrisk": null,
+      "hccrisk": "1.407",
+      "hypertensionrisk": 30.479
+    },
+    {
+      "patient_id": 101848,
+      "chdrisk": 7.091,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 24.761
+    },
+    {
+      "patient_id": 101703,
+      "chdrisk": 5,
+      "diabetesrisk": null,
+      "hccrisk": "5.945",
+      "hypertensionrisk": 42.09
+    },
+    {
+      "patient_id": 100543,
+      "chdrisk": 19.222,
+      "diabetesrisk": null,
+      "hccrisk": "0.369",
+      "hypertensionrisk": 40.49
+    },
+    {
+      "patient_id": 100956,
+      "chdrisk": 10.226,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 32.639
+    },
+    {
+      "patient_id": 101768,
+      "chdrisk": 6.688,
+      "diabetesrisk": 17.5,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 13.578
+    },
+    {
+      "patient_id": 101674,
+      "chdrisk": 8.15,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 64.187
+    },
+    {
+      "patient_id": 101851,
+      "chdrisk": 21.072,
+      "diabetesrisk": 41.759,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 52.343
+    },
+    {
+      "patient_id": 102217,
+      "chdrisk": 10.065,
+      "diabetesrisk": null,
+      "hccrisk": "0.533",
+      "hypertensionrisk": 41.044
+    },
+    {
+      "patient_id": 102223,
+      "chdrisk": 13.234,
+      "diabetesrisk": 42.595,
+      "hccrisk": "0.43",
+      "hypertensionrisk": 32.796
+    },
+    {
+      "patient_id": 103024,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "0.531",
+      "hypertensionrisk": 62.713
+    },
+    {
+      "patient_id": 101830,
+      "chdrisk": 6.308,
+      "diabetesrisk": null,
+      "hccrisk": "0.645",
+      "hypertensionrisk": 2.258
+    },
+    {
+      "patient_id": 100923,
+      "chdrisk": 8.6,
+      "diabetesrisk": 29.295,
+      "hccrisk": "0.994",
+      "hypertensionrisk": 22.399
+    },
+    {
+      "patient_id": 102314,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "1.16",
+      "hypertensionrisk": 5.32
+    },
+    {
+      "patient_id": 100962,
+      "chdrisk": 16,
+      "diabetesrisk": null,
+      "hccrisk": "1.101",
+      "hypertensionrisk": 44.374
+    },
+    {
+      "patient_id": 102170,
+      "chdrisk": 8.16,
+      "diabetesrisk": null,
+      "hccrisk": "4.598",
+      "hypertensionrisk": 49.594
+    },
+    {
+      "patient_id": 103099,
+      "chdrisk": 12.282,
+      "diabetesrisk": null,
+      "hccrisk": "1.635",
+      "hypertensionrisk": 31.671
+    },
+    {
+      "patient_id": 101246,
+      "chdrisk": 15.577,
+      "diabetesrisk": 23.8,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 50.391
+    },
+    {
+      "patient_id": 103216,
+      "chdrisk": 20.289,
+      "diabetesrisk": 35.723,
+      "hccrisk": "0.561",
+      "hypertensionrisk": 63.674
+    },
+    {
+      "patient_id": 102528,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 45.454
+    },
+    {
+      "patient_id": 101959,
+      "chdrisk": 12.273,
+      "diabetesrisk": null,
+      "hccrisk": "0.834",
+      "hypertensionrisk": 81.066
+    },
+    {
+      "patient_id": 101698,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "2.353",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101798,
+      "chdrisk": 9,
+      "diabetesrisk": null,
+      "hccrisk": "0.931",
+      "hypertensionrisk": 12.871
+    },
+    {
+      "patient_id": 102837,
+      "chdrisk": 7.6,
+      "diabetesrisk": null,
+      "hccrisk": "1.657",
+      "hypertensionrisk": 42.47
+    },
+    {
+      "patient_id": 102823,
+      "chdrisk": 4.692,
+      "diabetesrisk": null,
+      "hccrisk": "0.773",
+      "hypertensionrisk": 12.822
+    },
+    {
+      "patient_id": 101642,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "0.378",
+      "hypertensionrisk": 1.592
+    },
+    {
+      "patient_id": 102070,
+      "chdrisk": 20.118,
+      "diabetesrisk": 28.776,
+      "hccrisk": "0",
+      "hypertensionrisk": 71.655
+    },
+    {
+      "patient_id": 101842,
+      "chdrisk": 5.184,
+      "diabetesrisk": null,
+      "hccrisk": "1.494",
+      "hypertensionrisk": 41.819
+    },
+    {
+      "patient_id": 101688,
+      "chdrisk": 6.296,
+      "diabetesrisk": null,
+      "hccrisk": "1.338",
+      "hypertensionrisk": 22.734
+    },
+    {
+      "patient_id": 101388,
+      "chdrisk": 16.444,
+      "diabetesrisk": 28.967,
+      "hccrisk": "1.67",
+      "hypertensionrisk": 30.495
+    },
+    {
+      "patient_id": 102437,
+      "chdrisk": 10.833,
+      "diabetesrisk": null,
+      "hccrisk": "1.002",
+      "hypertensionrisk": 50.842
+    },
+    {
+      "patient_id": 102019,
+      "chdrisk": 18.6,
+      "diabetesrisk": 23.19,
+      "hccrisk": "1.667",
+      "hypertensionrisk": 54.267
+    },
+    {
+      "patient_id": 101572,
+      "chdrisk": 19.7,
+      "diabetesrisk": null,
+      "hccrisk": "0.767",
+      "hypertensionrisk": 56.173
+    },
+    {
+      "patient_id": 100959,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "0.793",
+      "hypertensionrisk": 19.586
+    },
+    {
+      "patient_id": 102974,
+      "chdrisk": 12.385,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 12.079
+    },
+    {
+      "patient_id": 102973,
+      "chdrisk": 10.923,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 56.373
+    },
+    {
+      "patient_id": 101472,
+      "chdrisk": 12.113,
+      "diabetesrisk": null,
+      "hccrisk": "1.234",
+      "hypertensionrisk": 29.192
+    },
+    {
+      "patient_id": 101592,
+      "chdrisk": 28.414,
+      "diabetesrisk": 41.219,
+      "hccrisk": "0.823",
+      "hypertensionrisk": 70.258
+    },
+    {
+      "patient_id": 101090,
+      "chdrisk": 9.471,
+      "diabetesrisk": null,
+      "hccrisk": "1.113",
+      "hypertensionrisk": 38.282
+    },
+    {
+      "patient_id": 102257,
+      "chdrisk": 6.065,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 6.991
+    },
+    {
+      "patient_id": 102711,
+      "chdrisk": 12.625,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 55.82
+    },
+    {
+      "patient_id": 101797,
+      "chdrisk": 14.935,
+      "diabetesrisk": null,
+      "hccrisk": "0.751",
+      "hypertensionrisk": 17.938
+    },
+    {
+      "patient_id": 101447,
+      "chdrisk": 4.593,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 40.685
+    },
+    {
+      "patient_id": 103163,
+      "chdrisk": 4.588,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 64.3
+    },
+    {
+      "patient_id": 101494,
+      "chdrisk": 7.618,
+      "diabetesrisk": null,
+      "hccrisk": "1.257",
+      "hypertensionrisk": 58.568
+    },
+    {
+      "patient_id": 101299,
+      "chdrisk": 5.923,
+      "diabetesrisk": null,
+      "hccrisk": "1.262",
+      "hypertensionrisk": 9.856
+    },
+    {
+      "patient_id": 101476,
+      "chdrisk": 1.733,
+      "diabetesrisk": null,
+      "hccrisk": "2.7",
+      "hypertensionrisk": 4.244
+    },
+    {
+      "patient_id": 102561,
+      "chdrisk": 9.875,
+      "diabetesrisk": null,
+      "hccrisk": "0.631",
+      "hypertensionrisk": 56.704
+    },
+    {
+      "patient_id": 102137,
+      "chdrisk": 12.023,
+      "diabetesrisk": null,
+      "hccrisk": "0.977",
+      "hypertensionrisk": 36.86
+    },
+    {
+      "patient_id": 102220,
+      "chdrisk": 11.278,
+      "diabetesrisk": 22.031,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 18.738
+    },
+    {
+      "patient_id": 101364,
+      "chdrisk": 3.692,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 28.754
+    },
+    {
+      "patient_id": 100913,
+      "chdrisk": 16.667,
+      "diabetesrisk": null,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 22.04
+    },
+    {
+      "patient_id": 101446,
+      "chdrisk": 9.091,
+      "diabetesrisk": null,
+      "hccrisk": "2.19",
+      "hypertensionrisk": 59.349
+    },
+    {
+      "patient_id": 103078,
+      "chdrisk": 9.61,
+      "diabetesrisk": null,
+      "hccrisk": "0.543",
+      "hypertensionrisk": 45.532
+    },
+    {
+      "patient_id": 101722,
+      "chdrisk": 6.714,
+      "diabetesrisk": null,
+      "hccrisk": "2.856",
+      "hypertensionrisk": 15.979
+    },
+    {
+      "patient_id": 102551,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "1.096",
+      "hypertensionrisk": 4.78
+    },
+    {
+      "patient_id": 102143,
+      "chdrisk": 15.636,
+      "diabetesrisk": 28.541,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 33.006
+    },
+    {
+      "patient_id": 102894,
+      "chdrisk": 22,
+      "diabetesrisk": 17.25,
+      "hccrisk": "0.491",
+      "hypertensionrisk": 0.001
+    },
+    {
+      "patient_id": 101021,
+      "chdrisk": 12,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 43.495
+    },
+    {
+      "patient_id": 101429,
+      "chdrisk": 9.5,
+      "diabetesrisk": null,
+      "hccrisk": "1.155",
+      "hypertensionrisk": 64.186
+    },
+    {
+      "patient_id": 102726,
+      "chdrisk": 4.868,
+      "diabetesrisk": null,
+      "hccrisk": "1.546",
+      "hypertensionrisk": 29.407
+    },
+    {
+      "patient_id": 101781,
+      "chdrisk": 19.824,
+      "diabetesrisk": 33.891,
+      "hccrisk": "0.746",
+      "hypertensionrisk": 21.279
+    },
+    {
+      "patient_id": 103014,
+      "chdrisk": 15.941,
+      "diabetesrisk": null,
+      "hccrisk": "1.476",
+      "hypertensionrisk": 45.002
+    },
+    {
+      "patient_id": 101554,
+      "chdrisk": 17,
+      "diabetesrisk": 28.671,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 61.186
+    },
+    {
+      "patient_id": 101059,
+      "chdrisk": 12.744,
+      "diabetesrisk": 27.404,
+      "hccrisk": "1.107",
+      "hypertensionrisk": 50.781
+    },
+    {
+      "patient_id": 100943,
+      "chdrisk": 19.6,
+      "diabetesrisk": 21.3,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 6.007
+    },
+    {
+      "patient_id": 101095,
+      "chdrisk": 8.912,
+      "diabetesrisk": 30.337,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 14.186
+    },
+    {
+      "patient_id": 102258,
+      "chdrisk": 15.867,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 41.236
+    },
+    {
+      "patient_id": 102400,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "2.292",
+      "hypertensionrisk": 0.001
+    },
+    {
+      "patient_id": 101792,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "1.895",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 103064,
+      "chdrisk": 16.4,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 23.717
+    },
+    {
+      "patient_id": 101565,
+      "chdrisk": 7.641,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 60.991
+    },
+    {
+      "patient_id": 102617,
+      "chdrisk": 5.917,
+      "diabetesrisk": null,
+      "hccrisk": "1.856",
+      "hypertensionrisk": 47.758
+    },
+    {
+      "patient_id": 102133,
+      "chdrisk": 11.483,
+      "diabetesrisk": 22.641,
+      "hccrisk": "1.574",
+      "hypertensionrisk": 16.42
+    },
+    {
+      "patient_id": 102383,
+      "chdrisk": 6,
+      "diabetesrisk": null,
+      "hccrisk": "0.571",
+      "hypertensionrisk": 28.931
+    },
+    {
+      "patient_id": 101047,
+      "chdrisk": 11.571,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 13.554
+    },
+    {
+      "patient_id": 101763,
+      "chdrisk": 23.25,
+      "diabetesrisk": 41.221,
+      "hccrisk": "0.476",
+      "hypertensionrisk": 31.616
+    },
+    {
+      "patient_id": 102463,
+      "chdrisk": 5.385,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 59.637
+    },
+    {
+      "patient_id": 101870,
+      "chdrisk": 6,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 1.977
+    },
+    {
+      "patient_id": 102138,
+      "chdrisk": 2.829,
+      "diabetesrisk": null,
+      "hccrisk": "1.016",
+      "hypertensionrisk": 14.938
+    },
+    {
+      "patient_id": 101135,
+      "chdrisk": 15.6,
+      "diabetesrisk": null,
+      "hccrisk": "1.774",
+      "hypertensionrisk": 24.154
+    },
+    {
+      "patient_id": 102077,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "4.026",
+      "hypertensionrisk": 11.591
+    },
+    {
+      "patient_id": 101215,
+      "chdrisk": 9.324,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 30.644
+    },
+    {
+      "patient_id": 101088,
+      "chdrisk": 5,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 12.646
+    },
+    {
+      "patient_id": 101058,
+      "chdrisk": 22.51,
+      "diabetesrisk": 37.829,
+      "hccrisk": "0.758",
+      "hypertensionrisk": 48.255
+    },
+    {
+      "patient_id": 103217,
+      "chdrisk": 14.818,
+      "diabetesrisk": null,
+      "hccrisk": "1.468",
+      "hypertensionrisk": 27.662
+    },
+    {
+      "patient_id": 102088,
+      "chdrisk": 5,
+      "diabetesrisk": 23.367,
+      "hccrisk": "1.743",
+      "hypertensionrisk": 9.836
+    },
+    {
+      "patient_id": 101279,
+      "chdrisk": 6.516,
+      "diabetesrisk": null,
+      "hccrisk": "0.613",
+      "hypertensionrisk": 15.071
+    },
+    {
+      "patient_id": 102773,
+      "chdrisk": 15,
+      "diabetesrisk": 20.142,
+      "hccrisk": "1.3",
+      "hypertensionrisk": 19.61
+    },
+    {
+      "patient_id": 102386,
+      "chdrisk": 18,
+      "diabetesrisk": null,
+      "hccrisk": "0.645",
+      "hypertensionrisk": 60.942
+    },
+    {
+      "patient_id": 102244,
+      "chdrisk": 15,
+      "diabetesrisk": 26.864,
+      "hccrisk": "1.503",
+      "hypertensionrisk": 12.505
+    },
+    {
+      "patient_id": 102272,
+      "chdrisk": 9.552,
+      "diabetesrisk": null,
+      "hccrisk": "1.004",
+      "hypertensionrisk": 54.954
+    },
+    {
+      "patient_id": 101302,
+      "chdrisk": 3.889,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 40.11
+    },
+    {
+      "patient_id": 101217,
+      "chdrisk": 5.556,
+      "diabetesrisk": null,
+      "hccrisk": "0.172",
+      "hypertensionrisk": 39.844
+    },
+    {
+      "patient_id": 102209,
+      "chdrisk": 13.1,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 85.451
+    },
+    {
+      "patient_id": 103252,
+      "chdrisk": 20.836,
+      "diabetesrisk": null,
+      "hccrisk": "0.652",
+      "hypertensionrisk": 19.732
+    },
+    {
+      "patient_id": 101507,
+      "chdrisk": 18.5,
+      "diabetesrisk": null,
+      "hccrisk": "0.631",
+      "hypertensionrisk": 21.072
+    },
+    {
+      "patient_id": 102672,
+      "chdrisk": 3.194,
+      "diabetesrisk": null,
+      "hccrisk": "0.912",
+      "hypertensionrisk": 12.102
+    },
+    {
+      "patient_id": 103073,
+      "chdrisk": 10.438,
+      "diabetesrisk": null,
+      "hccrisk": "0.898",
+      "hypertensionrisk": 34.275
+    },
+    {
+      "patient_id": 101270,
+      "chdrisk": 9.286,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 48.635
+    },
+    {
+      "patient_id": 101854,
+      "chdrisk": 13.03,
+      "diabetesrisk": null,
+      "hccrisk": "1.073",
+      "hypertensionrisk": 45.398
+    },
+    {
+      "patient_id": 101336,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 11.122
+    },
+    {
+      "patient_id": 101457,
+      "chdrisk": 8.08,
+      "diabetesrisk": null,
+      "hccrisk": "1.227",
+      "hypertensionrisk": 48.066
+    },
+    {
+      "patient_id": 103020,
+      "chdrisk": 17.403,
+      "diabetesrisk": 28.459,
+      "hccrisk": "1.086",
+      "hypertensionrisk": 37.053
+    },
+    {
+      "patient_id": 102089,
+      "chdrisk": 15.58,
+      "diabetesrisk": 31.046,
+      "hccrisk": "1.603",
+      "hypertensionrisk": 34.335
+    },
+    {
+      "patient_id": 102391,
+      "chdrisk": 8.978,
+      "diabetesrisk": null,
+      "hccrisk": "1.097",
+      "hypertensionrisk": 39.371
+    },
+    {
+      "patient_id": 100935,
+      "chdrisk": 27.615,
+      "diabetesrisk": 46.736,
+      "hccrisk": "0.491",
+      "hypertensionrisk": 33.29
+    },
+    {
+      "patient_id": 102297,
+      "chdrisk": 1,
+      "diabetesrisk": 19.373,
+      "hccrisk": "0.707",
+      "hypertensionrisk": 2.181
+    },
+    {
+      "patient_id": 101101,
+      "chdrisk": 9.826,
+      "diabetesrisk": null,
+      "hccrisk": "1.942",
+      "hypertensionrisk": 63.855
+    },
+    {
+      "patient_id": 102860,
+      "chdrisk": 18.692,
+      "diabetesrisk": null,
+      "hccrisk": "1.071",
+      "hypertensionrisk": 54.105
+    },
+    {
+      "patient_id": 103214,
+      "chdrisk": 13.375,
+      "diabetesrisk": 40.3,
+      "hccrisk": "2.871",
+      "hypertensionrisk": 16.488
+    },
+    {
+      "patient_id": 101531,
+      "chdrisk": 12.429,
+      "diabetesrisk": null,
+      "hccrisk": "3.649",
+      "hypertensionrisk": 59.717
+    },
+    {
+      "patient_id": 102829,
+      "chdrisk": 1.8,
+      "diabetesrisk": null,
+      "hccrisk": "1.017",
+      "hypertensionrisk": 8.514
+    },
+    {
+      "patient_id": 101110,
+      "chdrisk": 19.156,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 42.925
+    },
+    {
+      "patient_id": 103009,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "1.657",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101264,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "1.841",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 102150,
+      "chdrisk": 4.316,
+      "diabetesrisk": null,
+      "hccrisk": "0.297",
+      "hypertensionrisk": 11.012
+    },
+    {
+      "patient_id": 102124,
+      "chdrisk": 1,
+      "diabetesrisk": null,
+      "hccrisk": "1.367",
+      "hypertensionrisk": 23.04
+    },
+    {
+      "patient_id": 101391,
+      "chdrisk": 5,
+      "diabetesrisk": null,
+      "hccrisk": "1.6",
+      "hypertensionrisk": 6.251
+    },
+    {
+      "patient_id": 101951,
+      "chdrisk": 2,
+      "diabetesrisk": null,
+      "hccrisk": "0.445",
+      "hypertensionrisk": 9.952
+    },
+    {
+      "patient_id": 101374,
+      "chdrisk": 14.381,
+      "diabetesrisk": 23.217,
+      "hccrisk": "0.452",
+      "hypertensionrisk": 22.942
+    },
+    {
+      "patient_id": 102007,
+      "chdrisk": 4.682,
+      "diabetesrisk": null,
+      "hccrisk": "0.992",
+      "hypertensionrisk": 13.863
+    },
+    {
+      "patient_id": 102822,
+      "chdrisk": 2.057,
+      "diabetesrisk": null,
+      "hccrisk": "0.422",
+      "hypertensionrisk": 1.248
+    },
+    {
+      "patient_id": 102610,
+      "chdrisk": 13.583,
+      "diabetesrisk": null,
+      "hccrisk": "0.775",
+      "hypertensionrisk": 34.472
+    },
+    {
+      "patient_id": 102569,
+      "chdrisk": 9.286,
+      "diabetesrisk": null,
+      "hccrisk": "0.445",
+      "hypertensionrisk": 32.524
+    },
+    {
+      "patient_id": 101966,
+      "chdrisk": 1.051,
+      "diabetesrisk": null,
+      "hccrisk": "0.604",
+      "hypertensionrisk": 56.392
+    },
+    {
+      "patient_id": 102083,
+      "chdrisk": 34.235,
+      "diabetesrisk": 44.709,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 18.123
+    },
+    {
+      "patient_id": 102303,
+      "chdrisk": 17.7,
+      "diabetesrisk": 54.657,
+      "hccrisk": "0.615",
+      "hypertensionrisk": 25.415
+    },
+    {
+      "patient_id": 101390,
+      "chdrisk": 7.817,
+      "diabetesrisk": null,
+      "hccrisk": "0.774",
+      "hypertensionrisk": 41.429
+    },
+    {
+      "patient_id": 103315,
+      "chdrisk": 3.111,
+      "diabetesrisk": null,
+      "hccrisk": "0.664",
+      "hypertensionrisk": 16.819
+    },
+    {
+      "patient_id": 103145,
+      "chdrisk": 3.484,
+      "diabetesrisk": null,
+      "hccrisk": "1.299",
+      "hypertensionrisk": 28.066
+    },
+    {
+      "patient_id": 101644,
+      "chdrisk": 9.5,
+      "diabetesrisk": null,
+      "hccrisk": "1.172",
+      "hypertensionrisk": 53.875
+    },
+    {
+      "patient_id": 102688,
+      "chdrisk": 31.395,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 49.927
+    },
+    {
+      "patient_id": 101194,
+      "chdrisk": 1,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 2.623
+    },
+    {
+      "patient_id": 103026,
+      "chdrisk": 37.95,
+      "diabetesrisk": 66.535,
+      "hccrisk": "0.719",
+      "hypertensionrisk": 11.112
+    },
+    {
+      "patient_id": 102830,
+      "chdrisk": 15.643,
+      "diabetesrisk": null,
+      "hccrisk": "0.659",
+      "hypertensionrisk": 39.55
+    },
+    {
+      "patient_id": 101202,
+      "chdrisk": 11.267,
+      "diabetesrisk": 43.256,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 46.184
+    },
+    {
+      "patient_id": 102547,
+      "chdrisk": 5.227,
+      "diabetesrisk": null,
+      "hccrisk": "3.188",
+      "hypertensionrisk": 52.387
+    },
+    {
+      "patient_id": 102033,
+      "chdrisk": 9.399,
+      "diabetesrisk": 33.434,
+      "hccrisk": "0.969",
+      "hypertensionrisk": 64.33
+    },
+    {
+      "patient_id": 103091,
+      "chdrisk": 5.318,
+      "diabetesrisk": null,
+      "hccrisk": "1.889",
+      "hypertensionrisk": 14.99
+    },
+    {
+      "patient_id": 102195,
+      "chdrisk": 9.154,
+      "diabetesrisk": null,
+      "hccrisk": "0.491",
+      "hypertensionrisk": 29.695
+    },
+    {
+      "patient_id": 102497,
+      "chdrisk": 14.231,
+      "diabetesrisk": null,
+      "hccrisk": "1.727",
+      "hypertensionrisk": 40.611
+    },
+    {
+      "patient_id": 103285,
+      "chdrisk": 20.286,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 27.049
+    },
+    {
+      "patient_id": 100966,
+      "chdrisk": 7.242,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 40.609
+    },
+    {
+      "patient_id": 102582,
+      "chdrisk": 23.478,
+      "diabetesrisk": 22.342,
+      "hccrisk": "2.157",
+      "hypertensionrisk": 27.744
+    },
+    {
+      "patient_id": 103283,
+      "chdrisk": 7,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 4.215
+    },
+    {
+      "patient_id": 102139,
+      "chdrisk": 22,
+      "diabetesrisk": 21.875,
+      "hccrisk": "2.274",
+      "hypertensionrisk": 0.003
+    },
+    {
+      "patient_id": 101886,
+      "chdrisk": 18.306,
+      "diabetesrisk": null,
+      "hccrisk": "1.493",
+      "hypertensionrisk": 34.061
+    },
+    {
+      "patient_id": 101556,
+      "chdrisk": 11,
+      "diabetesrisk": null,
+      "hccrisk": "1.855",
+      "hypertensionrisk": 3.498
+    },
+    {
+      "patient_id": 101073,
+      "chdrisk": 8.8,
+      "diabetesrisk": null,
+      "hccrisk": "1.339",
+      "hypertensionrisk": 54.252
+    },
+    {
+      "patient_id": 100109,
+      "chdrisk": 3.4,
+      "diabetesrisk": null,
+      "hccrisk": "0.997",
+      "hypertensionrisk": 12.312
+    },
+    {
+      "patient_id": 103311,
+      "chdrisk": 1,
+      "diabetesrisk": null,
+      "hccrisk": "1.651",
+      "hypertensionrisk": 0.268
+    },
+    {
+      "patient_id": 101941,
+      "chdrisk": 22.062,
+      "diabetesrisk": 34.708,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 51.269
+    },
+    {
+      "patient_id": 102918,
+      "chdrisk": 17.2,
+      "diabetesrisk": null,
+      "hccrisk": "1.26",
+      "hypertensionrisk": 41.776
+    },
+    {
+      "patient_id": 102412,
+      "chdrisk": 9.409,
+      "diabetesrisk": null,
+      "hccrisk": "0.683",
+      "hypertensionrisk": 25.921
+    },
+    {
+      "patient_id": 102881,
+      "chdrisk": 8.8,
+      "diabetesrisk": null,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 91.118
+    },
+    {
+      "patient_id": 101000,
+      "chdrisk": 11.214,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 15.345
+    },
+    {
+      "patient_id": 102205,
+      "chdrisk": 19.625,
+      "diabetesrisk": 28.328,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 26.296
+    },
+    {
+      "patient_id": 102898,
+      "chdrisk": 25.785,
+      "diabetesrisk": null,
+      "hccrisk": "1.414",
+      "hypertensionrisk": 44.838
+    },
+    {
+      "patient_id": 102474,
+      "chdrisk": 26,
+      "diabetesrisk": null,
+      "hccrisk": "0.93",
+      "hypertensionrisk": 66.387
+    },
+    {
+      "patient_id": 102445,
+      "chdrisk": 4.091,
+      "diabetesrisk": null,
+      "hccrisk": "2.316",
+      "hypertensionrisk": 13.627
+    },
+    {
+      "patient_id": 102952,
+      "chdrisk": 12.216,
+      "diabetesrisk": null,
+      "hccrisk": "0.476",
+      "hypertensionrisk": 33.96
+    },
+    {
+      "patient_id": 101909,
+      "chdrisk": 20.778,
+      "diabetesrisk": null,
+      "hccrisk": "2.247",
+      "hypertensionrisk": 57.767
+    },
+    {
+      "patient_id": 101332,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0.87",
+      "hypertensionrisk": 54.76
+    },
+    {
+      "patient_id": 102532,
+      "chdrisk": 9,
+      "diabetesrisk": null,
+      "hccrisk": "1.752",
+      "hypertensionrisk": 10.606
+    },
+    {
+      "patient_id": 101128,
+      "chdrisk": 18.308,
+      "diabetesrisk": null,
+      "hccrisk": "0.846",
+      "hypertensionrisk": 9.862
+    },
+    {
+      "patient_id": 102394,
+      "chdrisk": 10.31,
+      "diabetesrisk": 23.383,
+      "hccrisk": "0.397",
+      "hypertensionrisk": 24.914
+    },
+    {
+      "patient_id": 102697,
+      "chdrisk": 5.968,
+      "diabetesrisk": null,
+      "hccrisk": "0.502",
+      "hypertensionrisk": 15.577
+    },
+    {
+      "patient_id": 102369,
+      "chdrisk": 18,
+      "diabetesrisk": 18.562,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 63.994
+    },
+    {
+      "patient_id": 102211,
+      "chdrisk": 8.563,
+      "diabetesrisk": 29.774,
+      "hccrisk": "0.34",
+      "hypertensionrisk": 35.79
+    },
+    {
+      "patient_id": 101002,
+      "chdrisk": 13.7,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 53.577
+    },
+    {
+      "patient_id": 102149,
+      "chdrisk": 14.471,
+      "diabetesrisk": null,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 53.833
+    },
+    {
+      "patient_id": 103198,
+      "chdrisk": 18.581,
+      "diabetesrisk": null,
+      "hccrisk": "1.712",
+      "hypertensionrisk": 51.834
+    },
+    {
+      "patient_id": 101453,
+      "chdrisk": 9.286,
+      "diabetesrisk": null,
+      "hccrisk": "1.435",
+      "hypertensionrisk": 49.551
+    },
+    {
+      "patient_id": 102430,
+      "chdrisk": 14.857,
+      "diabetesrisk": 50.951,
+      "hccrisk": "0.843",
+      "hypertensionrisk": 41.457
+    },
+    {
+      "patient_id": 103079,
+      "chdrisk": 8.4,
+      "diabetesrisk": null,
+      "hccrisk": "0.86",
+      "hypertensionrisk": 30.901
+    },
+    {
+      "patient_id": 101295,
+      "chdrisk": 15.556,
+      "diabetesrisk": 28.46,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 27.752
+    },
+    {
+      "patient_id": 101031,
+      "chdrisk": 3.9,
+      "diabetesrisk": null,
+      "hccrisk": "0.422",
+      "hypertensionrisk": 11.81
+    },
+    {
+      "patient_id": 102562,
+      "chdrisk": 12.12,
+      "diabetesrisk": null,
+      "hccrisk": "0.669",
+      "hypertensionrisk": 68.378
+    },
+    {
+      "patient_id": 101728,
+      "chdrisk": 5.538,
+      "diabetesrisk": null,
+      "hccrisk": "1.19",
+      "hypertensionrisk": 32.735
+    },
+    {
+      "patient_id": 102993,
+      "chdrisk": 25.824,
+      "diabetesrisk": 34.803,
+      "hccrisk": "1.445",
+      "hypertensionrisk": 20.077
+    },
+    {
+      "patient_id": 102073,
+      "chdrisk": 6.5,
+      "diabetesrisk": null,
+      "hccrisk": "0.445",
+      "hypertensionrisk": 12.518
+    },
+    {
+      "patient_id": 102552,
+      "chdrisk": 13.663,
+      "diabetesrisk": null,
+      "hccrisk": "0.832",
+      "hypertensionrisk": 39.917
+    },
+    {
+      "patient_id": 101947,
+      "chdrisk": 3.389,
+      "diabetesrisk": null,
+      "hccrisk": "1.005",
+      "hypertensionrisk": 0.658
+    },
+    {
+      "patient_id": 101613,
+      "chdrisk": 7.963,
+      "diabetesrisk": null,
+      "hccrisk": "1.336",
+      "hypertensionrisk": 41.266
+    },
+    {
+      "patient_id": 102579,
+      "chdrisk": 5.538,
+      "diabetesrisk": 25.404,
+      "hccrisk": "0.34",
+      "hypertensionrisk": 3.318
+    },
+    {
+      "patient_id": 102190,
+      "chdrisk": 6.148,
+      "diabetesrisk": null,
+      "hccrisk": "1.632",
+      "hypertensionrisk": 10.924
+    },
+    {
+      "patient_id": 102078,
+      "chdrisk": 8.808,
+      "diabetesrisk": null,
+      "hccrisk": "1.278",
+      "hypertensionrisk": 23.092
+    },
+    {
+      "patient_id": 102570,
+      "chdrisk": 17.2,
+      "diabetesrisk": null,
+      "hccrisk": "0.297",
+      "hypertensionrisk": 52.946
+    },
+    {
+      "patient_id": 102009,
+      "chdrisk": 16.043,
+      "diabetesrisk": 34.333,
+      "hccrisk": "0.885",
+      "hypertensionrisk": 64.749
+    },
+    {
+      "patient_id": 100973,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 0.544
+    },
+    {
+      "patient_id": 102543,
+      "chdrisk": 6,
+      "diabetesrisk": null,
+      "hccrisk": "0.551",
+      "hypertensionrisk": 19.476
+    },
+    {
+      "patient_id": 101019,
+      "chdrisk": 6,
+      "diabetesrisk": null,
+      "hccrisk": "0.517",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101645,
+      "chdrisk": 15.938,
+      "diabetesrisk": null,
+      "hccrisk": "0.498",
+      "hypertensionrisk": 56.168
+    },
+    {
+      "patient_id": 102336,
+      "chdrisk": 17.111,
+      "diabetesrisk": null,
+      "hccrisk": "0.311",
+      "hypertensionrisk": 52.95
+    },
+    {
+      "patient_id": 101747,
+      "chdrisk": 5.2,
+      "diabetesrisk": null,
+      "hccrisk": "1.311",
+      "hypertensionrisk": 17.925
+    },
+    {
+      "patient_id": 101562,
+      "chdrisk": 11,
+      "diabetesrisk": 20.525,
+      "hccrisk": "1.869",
+      "hypertensionrisk": 38.563
+    },
+    {
+      "patient_id": 100313,
+      "chdrisk": 7.667,
+      "diabetesrisk": null,
+      "hccrisk": "0.646",
+      "hypertensionrisk": 59.787
+    },
+    {
+      "patient_id": 102659,
+      "chdrisk": 8.08,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 42.261
+    },
+    {
+      "patient_id": 102017,
+      "chdrisk": 4.825,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 4.596
+    },
+    {
+      "patient_id": 102402,
+      "chdrisk": 22.326,
+      "diabetesrisk": null,
+      "hccrisk": "0.868",
+      "hypertensionrisk": 62.189
+    },
+    {
+      "patient_id": 102888,
+      "chdrisk": 13.979,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 24.173
+    },
+    {
+      "patient_id": 101680,
+      "chdrisk": 15,
+      "diabetesrisk": 33.871,
+      "hccrisk": "0.935",
+      "hypertensionrisk": 35.212
+    },
+    {
+      "patient_id": 101450,
+      "chdrisk": 17.184,
+      "diabetesrisk": 40.889,
+      "hccrisk": "1.642",
+      "hypertensionrisk": 12.424
+    },
+    {
+      "patient_id": 100990,
+      "chdrisk": 6.036,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 27.472
+    },
+    {
+      "patient_id": 101511,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 9.228
+    },
+    {
+      "patient_id": 103104,
+      "chdrisk": 18.14,
+      "diabetesrisk": 45.5,
+      "hccrisk": "0.422",
+      "hypertensionrisk": 25.548
+    },
+    {
+      "patient_id": 101297,
+      "chdrisk": 2.333,
+      "diabetesrisk": null,
+      "hccrisk": "0.767",
+      "hypertensionrisk": 12.959
+    },
+    {
+      "patient_id": 101006,
+      "chdrisk": 11.149,
+      "diabetesrisk": 21.455,
+      "hccrisk": "0.59",
+      "hypertensionrisk": 50.74
+    },
+    {
+      "patient_id": 102930,
+      "chdrisk": 17,
+      "diabetesrisk": null,
+      "hccrisk": "1.323",
+      "hypertensionrisk": 51.068
+    },
+    {
+      "patient_id": 100193,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "1.475",
+      "hypertensionrisk": 29.574
+    },
+    {
+      "patient_id": 102981,
+      "chdrisk": 16.316,
+      "diabetesrisk": 33.154,
+      "hccrisk": "0.939",
+      "hypertensionrisk": 36.025
+    },
+    {
+      "patient_id": 103235,
+      "chdrisk": 5.779,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 14.086
+    },
+    {
+      "patient_id": 101818,
+      "chdrisk": 5.222,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 12.177
+    },
+    {
+      "patient_id": 101616,
+      "chdrisk": 13.903,
+      "diabetesrisk": 48.72,
+      "hccrisk": "1.408",
+      "hypertensionrisk": 26.495
+    },
+    {
+      "patient_id": 101052,
+      "chdrisk": 24.244,
+      "diabetesrisk": 23.204,
+      "hccrisk": "0.625",
+      "hypertensionrisk": 38.346
+    },
+    {
+      "patient_id": 101023,
+      "chdrisk": 16.629,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 38.967
+    },
+    {
+      "patient_id": 101887,
+      "chdrisk": 33,
+      "diabetesrisk": 40.917,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 22.269
+    },
+    {
+      "patient_id": 102592,
+      "chdrisk": 13.348,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 28.551
+    },
+    {
+      "patient_id": 101367,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "0.844",
+      "hypertensionrisk": 22.241
+    },
+    {
+      "patient_id": 103151,
+      "chdrisk": 11.125,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 16.425
+    },
+    {
+      "patient_id": 103008,
+      "chdrisk": 10.878,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 46.874
+    },
+    {
+      "patient_id": 102640,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "1.129",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 102916,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "5.269",
+      "hypertensionrisk": 35.706
+    },
+    {
+      "patient_id": 101105,
+      "chdrisk": 23.246,
+      "diabetesrisk": 38.904,
+      "hccrisk": "1.2",
+      "hypertensionrisk": 52.009
+    },
+    {
+      "patient_id": 101967,
+      "chdrisk": 13.349,
+      "diabetesrisk": 26.986,
+      "hccrisk": "0.445",
+      "hypertensionrisk": 39.021
+    },
+    {
+      "patient_id": 102473,
+      "chdrisk": 14.737,
+      "diabetesrisk": 24.556,
+      "hccrisk": "1.047",
+      "hypertensionrisk": 53.61
+    },
+    {
+      "patient_id": 102292,
+      "chdrisk": 21.8,
+      "diabetesrisk": 20.705,
+      "hccrisk": "0.894",
+      "hypertensionrisk": 35.928
+    },
+    {
+      "patient_id": 102648,
+      "chdrisk": 18.683,
+      "diabetesrisk": null,
+      "hccrisk": "1.198",
+      "hypertensionrisk": 44.166
+    },
+    {
+      "patient_id": 102536,
+      "chdrisk": 4.676,
+      "diabetesrisk": 28.394,
+      "hccrisk": "0",
+      "hypertensionrisk": 8.073
+    },
+    {
+      "patient_id": 101656,
+      "chdrisk": 11.489,
+      "diabetesrisk": 32.83,
+      "hccrisk": "1.03",
+      "hypertensionrisk": 12.299
+    },
+    {
+      "patient_id": 101025,
+      "chdrisk": 29.071,
+      "diabetesrisk": 52.025,
+      "hccrisk": "0.444",
+      "hypertensionrisk": 47.822
+    },
+    {
+      "patient_id": 103206,
+      "chdrisk": 1,
+      "diabetesrisk": null,
+      "hccrisk": "0.977",
+      "hypertensionrisk": 11.862
+    },
+    {
+      "patient_id": 102050,
+      "chdrisk": 16.846,
+      "diabetesrisk": 40.819,
+      "hccrisk": "0.775",
+      "hypertensionrisk": 32.056
+    },
+    {
+      "patient_id": 101917,
+      "chdrisk": 17.367,
+      "diabetesrisk": 21.467,
+      "hccrisk": "0.498",
+      "hypertensionrisk": 37.706
+    },
+    {
+      "patient_id": 103153,
+      "chdrisk": 11.38,
+      "diabetesrisk": null,
+      "hccrisk": "6.975",
+      "hypertensionrisk": 7.98
+    },
+    {
+      "patient_id": 102380,
+      "chdrisk": 14,
+      "diabetesrisk": 18,
+      "hccrisk": "1.997",
+      "hypertensionrisk": 6.261
+    },
+    {
+      "patient_id": 102529,
+      "chdrisk": 6.333,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 8.522
+    },
+    {
+      "patient_id": 101568,
+      "chdrisk": 15.407,
+      "diabetesrisk": null,
+      "hccrisk": "0.577",
+      "hypertensionrisk": 65.786
+    },
+    {
+      "patient_id": 101643,
+      "chdrisk": 15.778,
+      "diabetesrisk": null,
+      "hccrisk": "0.951",
+      "hypertensionrisk": 23.112
+    },
+    {
+      "patient_id": 102662,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0.778",
+      "hypertensionrisk": 17.759
+    },
+    {
+      "patient_id": 102874,
+      "chdrisk": 8.818,
+      "diabetesrisk": null,
+      "hccrisk": "0.69",
+      "hypertensionrisk": 39.774
+    },
+    {
+      "patient_id": 101301,
+      "chdrisk": 3,
+      "diabetesrisk": null,
+      "hccrisk": "0.908",
+      "hypertensionrisk": 1.217
+    },
+    {
+      "patient_id": 100951,
+      "chdrisk": 17.926,
+      "diabetesrisk": null,
+      "hccrisk": "0.646",
+      "hypertensionrisk": 43.146
+    },
+    {
+      "patient_id": 101337,
+      "chdrisk": 3.769,
+      "diabetesrisk": null,
+      "hccrisk": "1.575",
+      "hypertensionrisk": 32.24
+    },
+    {
+      "patient_id": 101558,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0.514",
+      "hypertensionrisk": 47.206
+    },
+    {
+      "patient_id": 101734,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0.645",
+      "hypertensionrisk": 0.001
+    },
+    {
+      "patient_id": 102805,
+      "chdrisk": 13,
+      "diabetesrisk": null,
+      "hccrisk": "0.926",
+      "hypertensionrisk": 8.242
+    },
+    {
+      "patient_id": 102743,
+      "chdrisk": 10.571,
+      "diabetesrisk": null,
+      "hccrisk": "1.375",
+      "hypertensionrisk": 53.967
+    },
+    {
+      "patient_id": 102669,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "1.248",
+      "hypertensionrisk": 28.013
+    },
+    {
+      "patient_id": 102790,
+      "chdrisk": 2.463,
+      "diabetesrisk": null,
+      "hccrisk": "3.866",
+      "hypertensionrisk": 7.36
+    },
+    {
+      "patient_id": 101995,
+      "chdrisk": 6,
+      "diabetesrisk": null,
+      "hccrisk": "1.985",
+      "hypertensionrisk": 49.226
+    },
+    {
+      "patient_id": 101237,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101405,
+      "chdrisk": 12.333,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 46.576
+    },
+    {
+      "patient_id": 101192,
+      "chdrisk": 18.708,
+      "diabetesrisk": 45.354,
+      "hccrisk": "1.215",
+      "hypertensionrisk": 78.897
+    },
+    {
+      "patient_id": 100992,
+      "chdrisk": 8.783,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 38.176
+    },
+    {
+      "patient_id": 101513,
+      "chdrisk": 4.843,
+      "diabetesrisk": null,
+      "hccrisk": "0.683",
+      "hypertensionrisk": 6.225
+    },
+    {
+      "patient_id": 101132,
+      "chdrisk": 4.875,
+      "diabetesrisk": null,
+      "hccrisk": "0.842",
+      "hypertensionrisk": 16.712
+    },
+    {
+      "patient_id": 102928,
+      "chdrisk": 13.4,
+      "diabetesrisk": 41.78,
+      "hccrisk": "0.73",
+      "hypertensionrisk": 90.282
+    },
+    {
+      "patient_id": 101346,
+      "chdrisk": 5,
+      "diabetesrisk": null,
+      "hccrisk": "0.486",
+      "hypertensionrisk": 2.764
+    },
+    {
+      "patient_id": 102909,
+      "chdrisk": 19.471,
+      "diabetesrisk": 24.906,
+      "hccrisk": "1.268",
+      "hypertensionrisk": 23.266
+    },
+    {
+      "patient_id": 103154,
+      "chdrisk": 1,
+      "diabetesrisk": null,
+      "hccrisk": "0.645",
+      "hypertensionrisk": 6.516
+    },
+    {
+      "patient_id": 101348,
+      "chdrisk": 15.2,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 20.146
+    },
+    {
+      "patient_id": 101207,
+      "chdrisk": 19.667,
+      "diabetesrisk": 43.382,
+      "hccrisk": "0.517",
+      "hypertensionrisk": 24.105
+    },
+    {
+      "patient_id": 101286,
+      "chdrisk": 7,
+      "diabetesrisk": null,
+      "hccrisk": "1.413",
+      "hypertensionrisk": 25.084
+    },
+    {
+      "patient_id": 102911,
+      "chdrisk": 28.5,
+      "diabetesrisk": null,
+      "hccrisk": "2.84",
+      "hypertensionrisk": 27.217
+    },
+    {
+      "patient_id": 102080,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "0.799",
+      "hypertensionrisk": 33.492
+    },
+    {
+      "patient_id": 101730,
+      "chdrisk": 5,
+      "diabetesrisk": null,
+      "hccrisk": "1.278",
+      "hypertensionrisk": 24.218
+    },
+    {
+      "patient_id": 102750,
+      "chdrisk": 5.75,
+      "diabetesrisk": 19.892,
+      "hccrisk": "3.55",
+      "hypertensionrisk": 12.566
+    },
+    {
+      "patient_id": 101855,
+      "chdrisk": 16.4,
+      "diabetesrisk": null,
+      "hccrisk": "0.387",
+      "hypertensionrisk": 31.697
+    },
+    {
+      "patient_id": 101085,
+      "chdrisk": 13.788,
+      "diabetesrisk": null,
+      "hccrisk": "0.835",
+      "hypertensionrisk": 47.03
+    },
+    {
+      "patient_id": 101333,
+      "chdrisk": 11.167,
+      "diabetesrisk": null,
+      "hccrisk": "1.016",
+      "hypertensionrisk": 55.334
+    },
+    {
+      "patient_id": 102307,
+      "chdrisk": 19.25,
+      "diabetesrisk": 22.078,
+      "hccrisk": "0.34",
+      "hypertensionrisk": 36.068
+    },
+    {
+      "patient_id": 103072,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "0.624",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101218,
+      "chdrisk": 4,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 28.451
+    },
+    {
+      "patient_id": 100931,
+      "chdrisk": 4,
+      "diabetesrisk": 45.131,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 15.702
+    },
+    {
+      "patient_id": 101844,
+      "chdrisk": 12.128,
+      "diabetesrisk": null,
+      "hccrisk": "1.481",
+      "hypertensionrisk": 42.74
+    },
+    {
+      "patient_id": 102702,
+      "chdrisk": 32.273,
+      "diabetesrisk": 34.025,
+      "hccrisk": "0.763",
+      "hypertensionrisk": 63.148
+    },
+    {
+      "patient_id": 101519,
+      "chdrisk": 6.134,
+      "diabetesrisk": null,
+      "hccrisk": "0.926",
+      "hypertensionrisk": 21.276
+    },
+    {
+      "patient_id": 101327,
+      "chdrisk": 4.192,
+      "diabetesrisk": null,
+      "hccrisk": "0.75",
+      "hypertensionrisk": 10.66
+    },
+    {
+      "patient_id": 102125,
+      "chdrisk": 18,
+      "diabetesrisk": 46.915,
+      "hccrisk": "0.799",
+      "hypertensionrisk": 9.212
+    },
+    {
+      "patient_id": 101950,
+      "chdrisk": 9.313,
+      "diabetesrisk": null,
+      "hccrisk": "0.475",
+      "hypertensionrisk": 57.793
+    },
+    {
+      "patient_id": 102933,
+      "chdrisk": 8.294,
+      "diabetesrisk": null,
+      "hccrisk": "0.89",
+      "hypertensionrisk": 7.493
+    },
+    {
+      "patient_id": 103258,
+      "chdrisk": 7.021,
+      "diabetesrisk": 24.566,
+      "hccrisk": "3.247",
+      "hypertensionrisk": 29.746
+    },
+    {
+      "patient_id": 102500,
+      "chdrisk": 6.706,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 63.798
+    },
+    {
+      "patient_id": 101464,
+      "chdrisk": 8.077,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 67.821
+    },
+    {
+      "patient_id": 100963,
+      "chdrisk": 14,
+      "diabetesrisk": null,
+      "hccrisk": "0.748",
+      "hypertensionrisk": 0.003
+    },
+    {
+      "patient_id": 102174,
+      "chdrisk": 14,
+      "diabetesrisk": 22.667,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 31.433
+    },
+    {
+      "patient_id": 102353,
+      "chdrisk": 14,
+      "diabetesrisk": 20.275,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 30.495
+    },
+    {
+      "patient_id": 100930,
+      "chdrisk": 13.107,
+      "diabetesrisk": null,
+      "hccrisk": "0.717",
+      "hypertensionrisk": 51.164
+    },
+    {
+      "patient_id": 103193,
+      "chdrisk": 9.5,
+      "diabetesrisk": null,
+      "hccrisk": "0.417",
+      "hypertensionrisk": 46.906
+    },
+    {
+      "patient_id": 103059,
+      "chdrisk": 8.882,
+      "diabetesrisk": null,
+      "hccrisk": "0.332",
+      "hypertensionrisk": 29.773
+    },
+    {
+      "patient_id": 101158,
+      "chdrisk": 12.2,
+      "diabetesrisk": null,
+      "hccrisk": "0.374",
+      "hypertensionrisk": 8.487
+    },
+    {
+      "patient_id": 101518,
+      "chdrisk": 18.2,
+      "diabetesrisk": 38.098,
+      "hccrisk": "0.529",
+      "hypertensionrisk": 50.792
+    },
+    {
+      "patient_id": 100987,
+      "chdrisk": 11.929,
+      "diabetesrisk": null,
+      "hccrisk": "0.985",
+      "hypertensionrisk": 61.42
+    },
+    {
+      "patient_id": 101927,
+      "chdrisk": null,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": null
+    },
+    {
+      "patient_id": 101530,
+      "chdrisk": 1.077,
+      "diabetesrisk": null,
+      "hccrisk": "0.274",
+      "hypertensionrisk": 13.152
+    },
+    {
+      "patient_id": 102650,
+      "chdrisk": 6.393,
+      "diabetesrisk": null,
+      "hccrisk": "1.074",
+      "hypertensionrisk": 9.43
+    },
+    {
+      "patient_id": 102269,
+      "chdrisk": 5.609,
+      "diabetesrisk": null,
+      "hccrisk": "0",
+      "hypertensionrisk": 55.374
+    },
+    {
+      "patient_id": 102811,
+      "chdrisk": 3.238,
+      "diabetesrisk": null,
+      "hccrisk": "1.304",
+      "hypertensionrisk": 16.459
+    },
+    {
+      "patient_id": 101449,
+      "chdrisk": 3,
+      "diabetesrisk": null,
+      "hccrisk": "1.002",
+      "hypertensionrisk": 5.86
+    },
+    {
+      "patient_id": 101387,
+      "chdrisk": 8,
+      "diabetesrisk": null,
+      "hccrisk": "1.53",
+      "hypertensionrisk": 0.004
+    },
+    {
+      "patient_id": 103080,
+      "chdrisk": 8.815,
+      "diabetesrisk": null,
+      "hccrisk": "2.636",
+      "hypertensionrisk": 39.746
+    },
+    {
+      "patient_id": 101395,
+      "chdrisk": 6.615,
+      "diabetesrisk": null,
+      "hccrisk": "0.966",
+      "hypertensionrisk": 30.177
+    },
+    {
+      "patient_id": 102301,
+      "chdrisk": 14.174,
+      "diabetesrisk": null,
+      "hccrisk": "1.341",
+      "hypertensionrisk": 40.793
+    },
+    {
+      "patient_id": 100974,
+      "chdrisk": 7.364,
+      "diabetesrisk": null,
+      "hccrisk": "1.413",
+      "hypertensionrisk": 26.188
+    }
+  ]

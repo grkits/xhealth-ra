@@ -1,0 +1,19 @@
+.header-collapse {
+    color: #fff;
+    float: left;
+    padding: 0 10px;
+    cursor: pointer;
+}
+.header-logo{
+    background: rgb(241, 241, 241);
+    height: 64px;
+    float: left;
+}
+.img-logo-prop{
+    height: 100%;
+    display: block;
+}
+.header-logo .ant-space-item{
+    height: 64px; 
+    padding: 10px;
+}

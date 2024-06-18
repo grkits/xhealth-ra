@@ -1,0 +1,9 @@
+.App .ant-layout-sider-children {
+    min-height: 100vh;
+}
+
+.App .logo {
+    height: 30px;
+    margin: 15px;
+    /* background: url('https://felixsolutions.ai/wp-content/uploads/2023/03/logo.png'); */
+}

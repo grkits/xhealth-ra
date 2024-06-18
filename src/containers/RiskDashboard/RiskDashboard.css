@@ -1,0 +1,16 @@
+.bottom-disk-title {
+    text-decoration: underline;
+    background-color: rgb(241, 241, 241);
+    margin: 0 !important;
+    padding-top: 15px;
+}
+
+.title-sup-class {
+    background-color: rgb(241, 241, 241);
+    margin: 0 !important;
+    padding-bottom: 15px;
+}
+
+.sup-color-class {
+    color: #04a23494
+}

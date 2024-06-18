@@ -1,0 +1,29 @@
+[
+    {
+        "patient_id": 101031,
+        "last_a1c": "2021-07-19",
+        "last_smoking_cessation": "2021-04-20",
+        "last_foot_exam": "2021-06-11",
+        "last_eye_exam": "2021-06-11",
+        "last_pcp_appointment": "2021-05-10",
+        "last_social_worker_appointment": "2021-06-05"
+    },
+    {
+        "patient_id": 103213,
+        "last_a1c": "2020-11-29",
+        "last_smoking_cessation": "2021-09-12",
+        "last_foot_exam": "2020-04-17",
+        "last_eye_exam": "2020-10-07",
+        "last_pcp_appointment": "2021-05-10",
+        "last_social_worker_appointment": "2021-12-15"
+    },
+    {
+        "patient_id": 101132,
+        "last_a1c": "2021-07-19",
+        "last_smoking_cessation": "2021-04-20",
+        "last_foot_exam": "2021-06-11",
+        "last_eye_exam": "2021-06-11",
+        "last_pcp_appointment": "2021-05-10",
+        "last_social_worker_appointment": "2021-06-05"
+    }
+]

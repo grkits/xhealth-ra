@@ -1,0 +1,52 @@
+{
+    "title": "Current Openings",
+    "btnText": "View Details",
+    "data": [
+        {
+            "avatar": "https://dev.java/assets/images/java-logo-vert-blk.png",
+            "mainTitle": "Sr Java Developer",
+            "subTitle": "4-8 years of experience",
+            "details": [
+                {
+                    "title": "Required Skill Set",
+                    "detail": "<ul><li>Minimum 4 plus years of experience on Java technologies</li><li>Experience in Java and related technologies (Hibernate, Spring), UI Technologies like Angular, jQuery development experience</li><li>Requires Bachelor’s Degree or Foreign Equivalent in Computer Science, Computer Engineering, Computer Information Systems, or a related field of study.</li><li>Strong experience in Java, J2EE, Hibernate, Spring, AngularJS & Angular, jQuery, webMethods, Web Services and Web Application Server: Apache Tomcat</li><li>Experience in Software Design with applied knowledge of Key design principles</li><li>Experience in automating all the aspects of Engineering</li><li>Experience working in an Agile framework</li><li>Experience in developing complex business solutions Continuous Integration, deployment experience and Prototyping experience.</li><li>Demonstrate problem solving (analysis) and Demonstrate ability to mentor others. Understanding of Data Structures and Algorithms including time and space complexity optimization.</li><li>Data structures/algorithms development, Unix and SQL/PL SQL database development</li><li>Ability to contribute to development team and help achieve key business objectives</li><li>Ability to perform design and code reviews</li><li>Ability to identify system changes and verify that technical system specifications meet the business requirements</li><li>Ability to guide junior developers and can manage the delivery of the team. Strong written and verbal communication skills including the ability to effectively collaborate with multi-disciplinary groups at all organizational levels</li><li>Must possess Strong problem solving skills, analytical skills, good communication, presentation skills, Good attitude, self-motivated and the ability to work independently.</li></ul>"
+                },
+                {
+                    "title": "Roles and Responsibilities",
+                    "detail": "<ul><li>Experience working in the eCommerce industry is an added advantage but not limited.</li><li>Experience working in the Agile environment.</li><li>Product Development experience.</li><li>Architectural experience is a huge plus</li></ul>"
+                },
+                {
+                    "title": "Employment Type",
+                    "detail": "Full Time"
+                },
+                {
+                    "title": "Industry",
+                    "detail": "Information Technology, Product and Services."
+                }
+            ]
+        },
+        {
+            "avatar": "https://avatars.githubusercontent.com/u/6412038?s=280&v=4",
+            "mainTitle": "React Js Developer",
+            "subTitle": "4-6 years of experience",
+            "details": [
+                {
+                    "title": "Required Skill Set",
+                    "detail": "<ul><li>Expert in HTML5, JavaScript, ES6 and Typescript</li><li>Experience in using CSS/CSS3 (SASS & LESS) and Bootstrap</li><li>Minimum 2+ years of hands-on experience in design and development of web applications using React JS</li><li>Proficiency in one or more JavaScript frameworks REACT JS / Angular 6/7.</li><li>Good knowledge in writing client side restful APIs</li><li>Strong background in delivering enterprise level applications.</li><li>The ability to communicate clearly in both written and spoken English to all project participants.</li><li>Experience with GitHub. Experience identifying and remediating security vulnerabilities.  </li><li>Should be well versed with test driven development and be knowledgeable on associated tools and practices.</li><li>Ability to lead by example, motivating team to produce excellent results.</li><li>Should be good with SDLC processes and agile methodologies.</li><li>Must be willing to absorb functional and business requirements.</li><li>Innovative and explore ways to solve and fix client issues.</li></ul>"
+                },
+                {
+                    "title": "Roles and Responsibilities",
+                    "detail": "<ul><li>We are looking for a front-end senior developer who is a team player and loves fast paced working environment.</li><li>Manage team dynamics and use interpersonal skills to achieve the project goals.</li><li>Work independently with minimum supervision..</li></ul>"
+                },
+                {
+                    "title": "Employment Type",
+                    "detail": "Full Time"
+                },
+                {
+                    "title": "Industry",
+                    "detail": "Information Technology, Product and Services."
+                }
+            ]
+        }
+    ]
+}

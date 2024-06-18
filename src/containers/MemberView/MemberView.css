@@ -1,0 +1,75 @@
+.list-items .ant-card-body {
+  padding: 0;
+}
+
+.mmrDetails .ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  padding: 10px;
+}
+
+.chronic-cond .ant-card-head-title {
+  display: inherit;
+}
+
+.risk-adjuments-view-ul {
+  padding-inline-start: 35px !important;
+  margin-top: 10px !important;
+}
+.risk-adjuments-view-li {
+  text-align: left !important;
+}
+.member-data-tab {
+  font-size: 16px;
+  line-height: 32px;
+  color: white;
+}
+.member-data-content {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 32px;
+  margin-left: 5px;
+  color: white;
+}
+.panel-backgroud-color {
+  background-color: steelblue !important;
+  border-bottom: 1px solid #c4c4c4 !important;
+}
+.panel-backgroud-color .ant-collapse-expand-icon {
+  color: white;
+}
+.customOverlayPopover .ant-popover-inner {
+  background-color: #fff !important;
+}
+
+.customPanelBgColor {
+  background-color: #e5e5e5;
+  border-bottom: 1px solid #c4c4c4 !important;
+}
+
+.customOverlayPopover .ant-popover-arrow-content {
+  --antd-arrow-background-color: #fff !important;
+}
+
+.risk-progress-bar {
+  height: 7px;
+  width: 15px;
+  margin-right: 3px;
+}
+
+.medium-risk {
+  background-color: #FFBF00;
+}
+
+.high-risk {
+  background-color: red;
+}
+
+.minor-risk {
+  background-color: green;
+}
+
+.no-risk {
+  background-color: #d9d9d9;
+}

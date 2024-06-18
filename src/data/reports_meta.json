@@ -1,0 +1,62 @@
+[
+    {
+      "report_category": "Query Reports",
+      "report_name": "Query Approved"
+    },
+    {
+      "report_category": "Query Reports",
+      "report_name": "Query Needed"
+    },
+    {
+      "report_category": "Query Reports",
+      "report_name": "Query Needed"
+    },
+    {
+      "report_category": "Query Reports",
+      "report_name": "Query Needed"
+    },
+    {
+      "report_category": "Revenue Reports",
+      "report_name": "Revenue by Plan"
+    },
+    {
+      "report_category": "Revenue Reports",
+      "report_name": "Revenue by Provider"
+    },
+    {
+      "report_category": "Revenue Reports",
+      "report_name": "Revenue by Year"
+    },
+    {
+      "report_category": "Assignment Reports",
+      "report_name": "Assignment by Auditor"
+    },
+    {
+      "report_category": "Assignment Reports",
+      "report_name": "Assgned vs Completed by Time"
+    },
+    {
+      "report_category": "Performance Reports",
+      "report_name": "Performance by Plan"
+    },
+    {
+      "report_category": "Performance Reports",
+      "report_name": "Performance by Auditor"
+    },
+    {
+      "report_category": "Member Reports",
+      "report_name": "Assigned Members"
+    },
+    {
+      "report_category": "Member Reports",
+      "report_name": "Audited and Sweeped"
+    },
+    {
+      "report_category": "Member Reports",
+      "report_name": "Not Audited Not Sweeped"
+    },
+    {
+      "report_category": "Member Reports",
+      "report_name": "Prioritized Members by Plan"
+    }
+  ]
