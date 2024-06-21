@@ -32,6 +32,8 @@ import RenderContent from "./RenderContent";
 import SideDrawer from "./Drawer";
 import ConfirmModal from "./ConfirmModal";
 import { FilePdfOutlined } from '@ant-design/icons';
+import PDFView from "./PDFView";
+import EMRPDFView from "./EMRPDFView";
 
 
 const { Panel } = Collapse;
@@ -84,6 +86,8 @@ const MemberNewView = () => {
   const [evidenceSource, setEvidenceSource] = useState();
   const [emrModal, setEMRModal] = useState(false)
   const [rowData, setRowData] = useState(null)
+  const [pdfView, setPDFView] = useState(false)
+  const [pdfEMRView, setPDFEMRView] = useState(false)
   const [memberInsightsData, setMemberInsightData] = useState([
     {
       title: "Chronic Conditions",
@@ -302,14 +306,31 @@ const MemberNewView = () => {
     );
   };
 
-  const popOverTitleRender = (text) => {
+  const modalOpenCheck = (record) => {
+    if (record?.evidence_source === "Lab Results") {
+      setPDFView(true)
+      setOpenSuspectedPopup(false);
+      setIndexedOpen(null);
+    }
+    else if (record?.evidence_source === "EMR Data") {
+      setPDFEMRView(true)
+      setOpenSuspectedPopup(false);
+      setIndexedOpen(null);
+    }
+    else {
+      showLargeDrawer()
+    }
+
+  }
+
+  const popOverTitleRender = (text, record) => {
     return (
       <Row style={{ width: "400px" }} justify="space-between">
         <Col span={20}>
           {text}
         </Col>
         <Col span={4} style={{ textAlign: "end" }}>
-          <FilePdfOutlined onClick={showLargeDrawer} style={{ cursor: "pointer" }} />
+          <FilePdfOutlined onClick={() => modalOpenCheck(record)} style={{ cursor: "pointer" }} />
         </Col>
       </Row>
     );
@@ -370,7 +391,7 @@ const MemberNewView = () => {
                 <Popover
                   overlayClassName="customOverlayPopover"
                   content={evidenceContent}
-                  title={popOverTitleRender(text)}
+                  title={popOverTitleRender(text, record)}
                   trigger="click"
                   open={openSuspectedPopup}
                   onOpenChange={handleEvidenceChange}
@@ -1791,6 +1812,8 @@ const MemberNewView = () => {
       )}
       <SideDrawer onClose={onClose} openDrawer={openDrawer} />
       <ConfirmModal open={emrModal} setOpen={setEMRModal} rowData={rowData} />
+      <PDFView open={pdfView} setOpen={setPDFView} />
+      <EMRPDFView open={pdfEMRView} setOpen={setPDFEMRView} />
     </>
   );
 };

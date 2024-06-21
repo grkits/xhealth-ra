@@ -5,6 +5,7 @@ import Login from "./components/Login/Login";
 import ResetPassword from "./components/Reset-Password/ResetPassword";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import { LOGIN_PATH, RESET_PWD } from "./constants";
+import { Worker } from '@react-pdf-viewer/core';
 
 function App() {
   const [user, setUser] = useState(localStorage.getItem("userName"));
@@ -31,6 +32,7 @@ function App() {
 
   return (
     <div className="App">
+      <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js"></Worker>
       {user ? (
         <MainLayout />
       ) : (
